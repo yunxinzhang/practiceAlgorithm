@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\cworkspace\alg\algorithmpractice\prim\source.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\cworkspace\alg\algorithmpractice\prim\source.cpp(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  prim.vcxproj -> E:\cworkspace\alg\algorithmPractice\x64\Debug\prim.exe
+  prim.vcxproj -> E:\cworkspace\alg\algorithmPractice\x64\Debug\prim.pdb (Full PDB)

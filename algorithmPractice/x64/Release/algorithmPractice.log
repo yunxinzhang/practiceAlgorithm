@@ -1,0 +1,21 @@
+﻿  main.cpp
+e:\cworkspace\alg\algorithmpractice\algorithmpractice\sortHelper.h(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\cworkspace\alg\algorithmpractice\algorithmpractice\sort.h(40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp(20): note: see reference to function template instantiation 'void sortMethods::insertSort<T>(T *,int)' being compiled
+          with
+          [
+              T=int
+          ]
+e:\cworkspace\alg\algorithmpractice\algorithmpractice\sort.h(132): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp(22): note: see reference to function template instantiation 'void sortMethods::quickSort<T>(T *,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  Generating code
+  1 of 38 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  algorithmPractice.vcxproj -> E:\cworkspace\alg\algorithmPractice\x64\Release\sort.exe
+  algorithmPractice.vcxproj -> E:\cworkspace\alg\algorithmPractice\x64\Release\sort.pdb (Full PDB)
