@@ -1,5 +1,1 @@
-﻿  main.cpp
-e:\cworkspace\alg\algorithmpractice\problem_inversepair\main.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-e:\cworkspace\alg\algorithmpractice\problem_inversepair\main.cpp(75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  problem_inversePair.vcxproj -> E:\cworkspace\alg\algorithmPractice\x64\Debug\problem01_inversePair.exe
-  problem_inversePair.vcxproj -> E:\cworkspace\alg\algorithmPractice\x64\Debug\problem01_inversePair.pdb (Full PDB)
+﻿
